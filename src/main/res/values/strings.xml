@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmsAppTrigger</string>
+    <string name="toggle_app">Toggle Services\t\t</string>
+    <string name="enterNumber">Enter Phone Number</string>
+    <string name="smsTextNumber">Enter number to Get\nLocation Message</string>
+    <string name="turn_on_services">Turn On Services</string>
+    <string name="stop">⛒</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9851814272737769/9381468876</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9851814272737769/3099610487</string>
+    <string name="ok">✔</string>
+    <string name="info">\nKeyword for Services Send text these Keyword to your mobile to access Services from any mobile number\n\nFLASHLIGHT ON \nFLASHLIGHT OFF \nLOCATION \nWIFI ON \nWIFI OFF \nLOST</string>
+    <string name="alert">Alert!</string>
+</resources>
